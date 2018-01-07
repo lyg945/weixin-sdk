@@ -1,3 +1,5 @@
+server:
+    port: 8111
 weixin:
   mp:
     endpoint:
@@ -16,6 +18,6 @@ weixin:
       refresh-token-threshold: 300
     auth:
       # APPID
-      appid: appid
+      appid: wx0f0f88830456b0ef
       # APP secret
-      secret: secret
+      secret: 4af79f9306215d507b48c26beadf6a12
